@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SSK-22-11
-- 👀 I’m interested in Linux, OS and Technology.
+- 👀 I’m interested in Linux, OS and many other IT topics.
 - 🌱 I’m currently learning Shell Scripting, Cloud and DevOps.
-- 💞️ I’m looking to collaborate on anything which will help me to gain in y IT knowledge.
+- 💞️ I’m looking to collaborate on anything which will help in gaining my IT knowledge.
 - 📫 How to reach me - Through my LinkedIN : https://www.linkedin.com/in/sagar-kure-8a5626181
 
 <!---
